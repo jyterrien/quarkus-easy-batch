@@ -35,7 +35,7 @@ Using CDI and Microprofile Config to get the default database and path
      String path;
 ```
 
-###Results
+### Results
 The Easy-Batch project offers no point of comparison. All the initialization and end phase being left to the developer who can thus use a simple java or spring code or any other means to create the environment necessary to start the job.
 
 Quarkus offers enough documentation on the difference of execution in java or native mode not to have to come back to it.
